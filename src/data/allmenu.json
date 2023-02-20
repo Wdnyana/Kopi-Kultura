@@ -1,0 +1,80 @@
+{
+  "coffee": [
+    {
+      "id": 1,
+      "title": "Cappuccino",
+      "desc": "Espresso dengan susu panas & busa susu",
+      "price1": "15k",
+      "price2": "18k",
+      "img": "img/vietnam-drip.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Americano",
+      "desc": "Espresso dengan air panas",
+      "price1": "10k",
+      "price2": "13k",
+      "img": "img/coffee-latte.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Long Black",
+      "desc": "Espresso dengan air panas",
+      "price1": "12k",
+      "price2": "15k",
+      "img": "img/coffee-latte.jpg"
+    }
+  ],
+  "noncoffee": [
+    {
+      "id": 1,
+      "title": "Mango Smoothie",
+      "desc": "Smoothie mangga segar",
+      "price1": "Rp 28.000",
+      "price2": "Rp 32.000",
+      "img": "img/vietnam-drip.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Orange Juice",
+      "desc": "Jus jeruk segar",
+      "price1": "Rp 18.000",
+      "price2": "Rp 21.000",
+      "img": "img/vietnam-drip.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Orange Juice",
+      "desc": "Jus jeruk segar",
+      "price1": "Rp 18.000",
+      "price2": "Rp 21.000",
+      "img": "img/vietnam-drip.jpg"
+    }
+  ],
+  "makanan": [
+    {
+      "id": 1,
+      "title": "Sandwich Ayam",
+      "desc": "Roti lapis isi ayam, sayuran, dan mayones",
+      "price1": "Rp 30.000",
+      "price2": "Rp 35.000",
+      "img": "img/vietnam-drip.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Pancake",
+      "desc": "Pancake dengan selai dan madu",
+      "price1": "Rp 25.000",
+      "price2": "Rp 28.000",
+      "img": "img/vietnam-drip.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Pancake",
+      "desc": "Pancake dengan selai dan madu",
+      "price1": "Rp 25.000",
+      "price2": "Rp 28.000",
+      "img": "img/vietnam-drip.jpg"
+    }
+  ]
+}

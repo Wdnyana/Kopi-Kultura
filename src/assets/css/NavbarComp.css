@@ -1,0 +1,28 @@
+.scrolled {
+  background: #7d5426 !important;
+  transition: 0.5s ease !important;
+}
+
+#offcanvasNavbar {
+  background-color: #7d5426;
+  color: #fff !important;
+}
+
+.search-input {
+  padding: 0.7rem 1.5rem !important;
+  border-top-left-radius: 15px !important;
+  border-bottom-left-radius: 15px !important;
+  border-right: 0 !important;
+}
+
+.btn-search {
+  padding: 0 1.5rem !important;
+  border-top-right-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+  border: 1px solid #d3d3d3 !important;
+  border-left: 0 !important;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 30 30%27%3e%3cpath stroke=%27%23fff%27 stroke-linecap=%27round%27 stroke-miterlimit=%2710%27 stroke-width=%272%27 d=%27M4 7h22M4 15h22M4 23h22%27/%3e%3c/svg%3e") !important;
+}

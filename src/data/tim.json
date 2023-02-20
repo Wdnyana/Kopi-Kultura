@@ -1,0 +1,16 @@
+{
+  "tim": [
+    {
+      "id": 1,
+      "img": "img/vietnam-drip.jpg"
+    },
+    {
+      "id": 2,
+      "img": "img/coffee-latte.jpg"
+    },
+    {
+      "id": 3,
+      "img": "img/coffee-latte.jpg"
+    }
+  ]
+}

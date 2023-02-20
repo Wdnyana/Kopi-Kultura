@@ -1,0 +1,28 @@
+.contact {
+  margin-top: 8.5rem;
+}
+
+.contact__title {
+  color: #fff;
+  font-size: 3rem !important;
+  font-family: "Quicksand", sans-serif !important;
+  font-weight: 700 !important;
+}
+
+.item__card {
+  background-color: #7d5426 !important;
+  padding: 2rem;
+}
+
+.text__item {
+  color: #fff;
+  font-family: "Source Sans Pro", sans-serif !important;
+  font-size: 18px !important;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+
+.embed-responsive-item {
+  width: 100%;
+}

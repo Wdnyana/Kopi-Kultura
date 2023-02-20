@@ -1,0 +1,13 @@
+.layouting {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.footer-content {
+  margin-top: 5rem;
+  width: 100%;
+  background-color: #7d5426;
+}
