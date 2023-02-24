@@ -15,7 +15,7 @@ const CardMenu = (props) => {
   const item = props.item;
 
   return (
-    <Card className="mb-4 mb-md-0 p-2 m-0 card-content">
+    <Card className="mb-4 p-2 m-0 card-content">
       <div className="parent-img">
         <Card.Img className="card-image" variant="top" src={item.img} />
       </div>
@@ -31,16 +31,12 @@ const CardMenu = (props) => {
           {item.title}
         </Card.Title>
 
-        <Card.Text className="fw-normal text-start text-white desc-card">
-          {item.desc}
-        </Card.Text>
-
         <Card.Text className="mb-0 fw-bolder text-start text-white desc-card">
-          Hot {item.price1}
+          {item.price1}
         </Card.Text>
 
         <Card.Text className="mt-1 fw-bolder text-start text-white desc-card">
-          Ice {item.price2}
+          {item.price2}
         </Card.Text>
       </Card.Body>
     </Card>

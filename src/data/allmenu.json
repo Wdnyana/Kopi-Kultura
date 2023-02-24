@@ -3,78 +3,159 @@
     {
       "id": 1,
       "title": "Cappuccino",
-      "desc": "Espresso dengan susu panas & busa susu",
-      "price1": "15k",
-      "price2": "18k",
-      "img": "img/vietnam-drip.jpg"
+      "price1": "Hot 15k",
+      "price2": "Ice 18k",
+      "img": "img/coffee/cappuccino.JPG"
     },
     {
       "id": 2,
-      "title": "Americano",
-      "desc": "Espresso dengan air panas",
-      "price1": "10k",
-      "price2": "13k",
-      "img": "img/coffee-latte.jpg"
+      "title": "Long Black",
+      "price1": "Hot 12k",
+      "price2": "Ice 15k",
+      "img": "img/coffee/long-black.jpg"
     },
     {
       "id": 3,
-      "title": "Long Black",
-      "desc": "Espresso dengan air panas",
-      "price1": "12k",
-      "price2": "15k",
-      "img": "img/coffee-latte.jpg"
+      "title": "Americano",
+      "price1": "Hot 10k",
+      "price2": "Ice 13k",
+      "img": "img/coffee/americano-coffee.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Espresso Attack",
+      "price1": "Single  10k",
+      "price2": "Double 12k",
+      "img": "img/coffee/espresso-attack.JPG"
+    },
+    {
+      "id": 5,
+      "title": "Vietnam Drip",
+      "price1": "Non-Original 12k",
+      "price2": "Original 10k",
+      "img": "img/coffee/vietnam-drip.JPG"
+    },
+    {
+      "id": 6,
+      "title": "Kopi Susu",
+      "price1": "Hot 12k",
+      "price2": "Hot 15k",
+      "img": "img/coffee/es-kopi-susu.JPG"
+    },
+    {
+      "id": 7,
+      "title": "Kopi Caramel Lemonit",
+      "price1": "Hot 15k",
+      "price2": "Ice 19k",
+      "img": "img/coffee/es-kopi-caramel-lemonit.JPG"
     }
   ],
   "noncoffee": [
     {
       "id": 1,
-      "title": "Mango Smoothie",
-      "desc": "Smoothie mangga segar",
-      "price1": "Rp 28.000",
-      "price2": "Rp 32.000",
-      "img": "img/vietnam-drip.jpg"
+      "title": "Choco Oreo",
+      "price1": "Ice 18k",
+      "img": "img/noncoffee/chococo-oreo.JPG"
     },
     {
       "id": 2,
-      "title": "Orange Juice",
-      "desc": "Jus jeruk segar",
-      "price1": "Rp 18.000",
-      "price2": "Rp 21.000",
-      "img": "img/vietnam-drip.jpg"
+      "title": "Fresh Milk",
+      "price1": "Ice 10k",
+      "img": "img/noncoffee/fresh-milk.JPG"
     },
     {
       "id": 3,
-      "title": "Orange Juice",
-      "desc": "Jus jeruk segar",
-      "price1": "Rp 18.000",
-      "price2": "Rp 21.000",
-      "img": "img/vietnam-drip.jpg"
+      "title": "Lemon Squash",
+      "price1": "Ice 15k",
+      "img": "img/noncoffee/lemon-squash.JPG"
+    },
+    {
+      "id": 4,
+      "title": "Tropical Vibes",
+      "price1": "Ice 18k",
+      "img": "img/noncoffee/trofical-faid.JPG"
+    },
+    {
+      "id": 5,
+      "title": "Strawberry Squash",
+      "price1": "Ice 15k",
+      "img": "img/noncoffee/strawbery-squash.JPG"
+    },
+    {
+      "id": 6,
+      "title": "Matcha",
+      "price1": "Hot 15k",
+      "price2": "Ice 17k",
+      "img": "img/noncoffee/hot-matcha.JPG"
+    },
+    {
+      "id": 7,
+      "title": "Red Velvet",
+      "price1": "Hot 15k",
+      "price2": "Ice 18k",
+      "img": "img/noncoffee/hot-red-velvet.JPG"
+    },
+    {
+      "id": 8,
+      "title": "Taro",
+      "price1": "Hot 15k",
+      "price2": "Ice 17k",
+      "img": "img/noncoffee/ice-taro.JPG"
+    },
+    {
+      "id": 9,
+      "title": "Charcoal",
+      "price1": "Hot 15k",
+      "price2": "Ice 18k",
+      "img": "img/noncoffee/hot-carkoal.JPG"
+    },
+    {
+      "id": 10,
+      "title": "Lemon Tea",
+      "price1": "Hot 10k",
+      "price2": "Ice 12k",
+      "img": "img/noncoffee/lemon-tea.JPG"
     }
   ],
   "makanan": [
     {
       "id": 1,
-      "title": "Sandwich Ayam",
-      "desc": "Roti lapis isi ayam, sayuran, dan mayones",
-      "price1": "Rp 30.000",
-      "price2": "Rp 35.000",
-      "img": "img/vietnam-drip.jpg"
+      "title": "Burger",
+      "price1": "Keju 20k / No Keju 18k",
+      "price2": "Keju + Kentang 25k",
+      "img": "img/makanan/burger.JPG"
     },
     {
       "id": 2,
-      "title": "Pancake",
-      "desc": "Pancake dengan selai dan madu",
-      "price1": "Rp 25.000",
-      "price2": "Rp 28.000",
-      "img": "img/vietnam-drip.jpg"
+      "title": "Dimsum",
+      "price1": "Ayam 10k",
+      "price2": "Ikan 12k",
+      "img": "img/makanan/dimsum.JPG"
     },
     {
       "id": 3,
-      "title": "Pancake",
-      "desc": "Pancake dengan selai dan madu",
-      "price1": "Rp 25.000",
-      "price2": "Rp 28.000",
-      "img": "img/vietnam-drip.jpg"
+      "title": "Kentang Goreng",
+      "price1": "Original 10k",
+      "price2": "Mozarela 15k",
+      "img": "img/makanan/kentang-goreng-mozarella.JPG"
+    },
+    {
+      "id": 4,
+      "title": "Mie Goreng Kultura",
+      "price1": "Complete 15k",
+      "img": "img/makanan/mie-goreng-kultura.JPG"
+    },
+    {
+      "id": 5,
+      "title": "Roti Canai",
+      "price1": "Complete 10k",
+      "img": "img/makanan/roti-canai.JPG"
+    },
+    {
+      "id": 6,
+      "title": "Sandwich",
+      "price1": "Complete 15k",
+      "img": "img/makanan/sandwitch.JPG"
     }
   ]
 }

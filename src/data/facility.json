@@ -2,29 +2,29 @@
   "outdoor": [
     {
       "id": 1,
-      "img": "img/vietnam-drip.jpg"
+      "img": "img/fasilitas/img-outdoor-1.JPG"
     },
     {
       "id": 2,
-      "img": "img/coffee-latte.jpg"
+      "img": "img/fasilitas/img-outdoor-2.JPG"
     },
     {
       "id": 3,
-      "img": "img/coffee-latte.jpg"
+      "img": "img/fasilitas/img-outdoor-3.JPG"
     }
   ],
   "indoor": [
     {
       "id": 1,
-      "img": "img/vietnam-drip.jpg"
+      "img": "img/fasilitas/img-indoor-1.JPG"
     },
     {
       "id": 2,
-      "img": "img/coffee-latte.jpg"
+      "img": "img/fasilitas/img-indoor-2.JPG"
     },
     {
       "id": 3,
-      "img": "img/coffee-latte.jpg"
+      "img": "img/fasilitas/img-indoor-3.JPG"
     }
   ]
 }

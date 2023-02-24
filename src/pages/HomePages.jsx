@@ -9,7 +9,15 @@ import {
   Carousel,
   Form,
 } from "react-bootstrap";
-import { HomeBanner } from "../assets/img";
+import {
+  HomeBanner,
+  ImageGallery_1,
+  ImageGallery_2,
+  ImageGallery_3,
+  ImageGallery_4,
+  ImageGallery_5,
+  ImageGallery_6,
+} from "../assets/img";
 
 import "../assets/css/Index.css";
 import "../assets/css/Home.css";
@@ -83,27 +91,28 @@ const HomePages = () => {
       </section>
 
       {/* why us */}
+      <div className="pt-5" id="target-section"></div>
       <section className="text-why-us mt-5">
         <Container>
           <div className="text-why-us__item text-center">
             <h1 className="text-why-us__title mb-4">
-              Why <span className="sub-title">Us</span>
+              Mengapa Harus <span className="sub-title">Kopi Kultura ?</span>
             </h1>
-            <p id="target-section" className="text-why-us__desc">
-              Kami mengutamakan pelayanan yang ramah dan profesional. Tim kami
-              dilatih untuk memberikan pelayanan yang baik dan memuaskan,
-              sehingga Anda akan merasa nyaman dan senang selama berkunjung.
-              Ruangan indoor kami didesain dengan AC yang nyaman dan cozy,
-              sehingga Anda dapat menikmati secangkir kopi hangat atau makanan
-              yang enak tanpa harus khawatir dengan suhu udara yang terlalu
-              panas atau dingin. Sementara itu, ruangan outdoor menyajikan udara
-              segar yang berisikan tanaman hias. Anda dapat menikmati secangkir
-              kopi sambil menikmati suasana outdoor yang menyenangkan dan
-              menenangkan. Kualitas dan rasa dari kopi menjadi prioritas utama
-              kami dan disajikan oleh barista yang berpengalaman untuk
-              memastikan rasa kopi yang lezat dan memuaskan. Selain kopi, kami
-              juga menyajikan berbagai pilihan menu makanan dan minuman yang
-              pastina enak.
+            <p className="text-why-us__desc">
+              Karena, kami mengutamakan pelayanan yang ramah dan profesional.
+              Tim kami dilatih untuk memberikan pelayanan yang baik dan
+              memuaskan, sehingga Anda akan merasa nyaman dan senang selama
+              berkunjung. Ruangan indoor kami didesain dengan AC yang nyaman dan
+              cozy, sehingga Anda dapat menikmati secangkir kopi hangat atau
+              makanan yang enak tanpa harus khawatir dengan suhu udara yang
+              terlalu panas atau dingin. Sementara itu, ruangan outdoor
+              menyajikan udara segar yang berisikan tanaman hias. Anda dapat
+              menikmati secangkir kopi sambil menikmati suasana outdoor yang
+              menyenangkan dan menenangkan. Kualitas dan rasa dari kopi menjadi
+              prioritas utama kami dan disajikan oleh barista yang berpengalaman
+              untuk memastikan rasa kopi yang lezat dan memuaskan. Selain kopi,
+              kami juga menyajikan berbagai pilihan menu makanan dan minuman
+              yang pastina enak.
             </p>
           </div>
         </Container>
@@ -114,7 +123,7 @@ const HomePages = () => {
         <Container>
           <div className="menu__item text-center">
             <h1 className="menu__title mb-4">
-              Our <span className="sub-title">Menu</span>
+              Favorit <span className="sub-title">Menu</span>
             </h1>
 
             {/* Coffee */}
@@ -165,13 +174,13 @@ const HomePages = () => {
           <Row>
             <Col lg={4} md={12} className="mb-4 mb-lg-0">
               <img
-                src={HomeBanner}
+                src={ImageGallery_1}
                 className="w-100 shadow-1-strong rounded mb-4"
                 alt="Boat on Calm Water"
               />
 
               <img
-                src={HomeBanner}
+                src={ImageGallery_2}
                 className="w-100 shadow-1-strong rounded mb-4"
                 alt="Wintry Mountain Landscape"
               />
@@ -179,27 +188,27 @@ const HomePages = () => {
 
             <Col lg={4} className="mb-4 mb-lg-0">
               <img
-                src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp"
+                src={ImageGallery_3}
                 className="w-100 shadow-1-strong rounded mb-4"
-                alt="Mountains in the Clouds"
+                alt="Boat on Calm Water"
               />
 
               <img
-                src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
+                src={ImageGallery_4}
                 className="w-100 shadow-1-strong rounded mb-4"
-                alt="Boat on Calm Water"
+                alt="Mountains in the Clouds"
               />
             </Col>
 
             <Col lg={4} className="mb-4 mb-lg-0">
               <img
-                src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp"
+                src={ImageGallery_5}
                 className="w-100 shadow-1-strong rounded mb-4"
                 alt="Waves at Sea"
               />
 
               <img
-                src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
+                src={ImageGallery_6}
                 className="w-100 shadow-1-strong rounded mb-4"
                 alt="Yosemite National Park"
               />

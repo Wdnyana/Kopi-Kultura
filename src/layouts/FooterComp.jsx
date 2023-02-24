@@ -18,13 +18,25 @@ const FooterComp = () => {
         </Row>
         <Row>
           <Col className="text-center">
-            <a href="###">
+            <a
+              href="https://www.facebook.com/kopikultura/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <FontAwesomeIcon icon={faFacebook} className="icon" />
             </a>
-            <a href="###">
+            <a
+              href="https://api.whatsapp.com/send?phone=6287860588617"
+              target="_blank"
+              rel="noreferrer"
+            >
               <FontAwesomeIcon icon={faWhatsapp} className="icon" />
             </a>
-            <a href="###">
+            <a
+              href="https://www.instagram.com/kopi.kultura/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <FontAwesomeIcon icon={faInstagram} className="icon" />
             </a>
           </Col>

@@ -41,6 +41,17 @@
   color: #7d5426 !important;
   border: 1px solid #7d5426 !important;
 }
+
+.button__notfound {
+  background-color: #7d5426 !important;
+  color: #fff;
+  border: 1px solid transparent !important;
+  border-radius: 15px;
+  padding: 0.7rem 4rem;
+  font-family: "Source Sans Pro", sans-serif !important;
+  transition: 0.3s ease-in-out;
+}
+
 /* end banner style */
 
 /* why us */
@@ -114,26 +125,9 @@
 /* end menu */
 
 /* gallery */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  grid-gap: 10px;
-}
-
-.grid-item {
-  background-color: #ccc;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 3rem;
-  border-radius: 5px;
-}
-
-.grid-item-content {
-  transform: rotate(-10deg);
-  padding: 10px;
-  background-color: #fff;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+.item__img__gallery {
+  object-fit: cover;
+  object-position: center;
 }
 /* end gallery */
 

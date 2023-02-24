@@ -28,6 +28,13 @@
   object-fit: cover !important;
 }
 
+@media (min-width: 768px) {
+  .about__parent__filosof {
+    overflow: auto;
+    height: 700px;
+  }
+}
+
 .tim__carousel {
   height: 650px;
 }

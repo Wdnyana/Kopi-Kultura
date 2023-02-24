@@ -25,7 +25,7 @@ const MenuPages = () => {
             {/* Coffee */}
             <div className="menu__content mt-3">
               <h2 className="text-start menu__title mb-4">Coffee</h2>
-              <Row className="">
+              <Row>
                 {Menu.coffee.map((item) => (
                   <Col key={item.id} xs="12" md="6" xl="4">
                     <CardMenu item={item} />

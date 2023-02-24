@@ -2,15 +2,23 @@
   "tim": [
     {
       "id": 1,
-      "img": "img/vietnam-drip.jpg"
+      "img": "img/tim/img-tim1.JPG"
     },
     {
       "id": 2,
-      "img": "img/coffee-latte.jpg"
+      "img": "img/tim/img-tim2.JPG"
     },
     {
       "id": 3,
-      "img": "img/coffee-latte.jpg"
+      "img": "img/tim/img-tim3.JPG"
+    },
+    {
+      "id": 4,
+      "img": "img/tim/img-tim4.JPG"
+    },
+    {
+      "id": 5,
+      "img": "img/tim/img-tim5.JPG"
     }
   ]
 }
